@@ -1,0 +1,22 @@
+RDBMS				No SQL
+
+SQL Server / Oracle		MongoDB
+
+Database			Database
+
+Table				Collection
+
+Row				Document
+
+Column				Field
+
+Primary Key			Primary Key (_id - Default)
+
+Join				Embedded Document
+
+SQL Query			MongoDB API's
+
+Background Process		Background Process
+(Auto / Manual)			(Auto / Manual) - mongod (CLI)
+
+SSMS / SQL Plus			Mongo (CLI), Compass, RoboMongo
